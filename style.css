@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://i0.wp.com/codigoespagueti.com/wp-content/uploads/2022/01/Ezra_Miller_Grant_Gustin_The_Flash-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#Monitoreo{
+    background-color: red;
+    color: yellow;
+    width: 600px;
+}
+
+h2{
+    background-color: red;
+    color: blue;
+    width: 300px;
+}
